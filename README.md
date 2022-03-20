@@ -1,5 +1,5 @@
 # Compilacion de diferentes efectos de hover sobre el navbar de nuestra pagina
-![Hover Effects Cover]('')
+![Hover Effects Cover](public/hqdefault.jpg)
 Supongo que este repositorio ira creciendo cada vez mas y mas :)
 
 
